@@ -7,8 +7,8 @@
 1. Tap on the` Delete account` button
 1. Confirm account deletion
 1. Complete
-<img width="590" height="1140" alt="Screenshot_20260603_150139" src="https://github.com/user-attachments/assets/35b2d9e1-e44f-488f-ad03-d468d7698330" />
 
+<img width="590" height="1278" alt="IMG_4289" src="https://github.com/user-attachments/assets/ad38051f-040e-4164-9fdf-b70bcb9f7811" />
 
 
 
